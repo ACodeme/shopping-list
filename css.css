@@ -1,0 +1,42 @@
+.wide {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 200px;
+}
+.small {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+  padding-top: 10px;
+}
+.tick {
+  width: 100px;
+  height: 100px;
+}
+.intro {
+  color: pink;
+}
+.blue {
+  background-color: #79bac1;
+  margin: 0;
+}
+body {
+	margin: 0;
+	background-color: #ffffdd;
+}
+.bluish{
+	background-color: #50bda1;
+}
+h6 {
+	margin: 0;
+}
+.credits {
+	background-color: #f1f3f4;
+}
+.vip {
+	font-style: italic;
+}
